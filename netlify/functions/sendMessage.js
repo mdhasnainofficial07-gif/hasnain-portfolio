@@ -7,7 +7,7 @@ exports.handler = async function (event) {
     const email = data.email;
     const message = data.message;
 
-    const botToken = process.env.8623893002:AAFRaw_M6w25H7AQA7ymK5BFeIpjrtXj1OI; 
+    const botToken = process.env.BOT_TOKEN; 
     const chatId = "2008582016";
 
     const text = 
